@@ -1,2 +1,2 @@
 # Autosource
- Normalize third-party data into structured event streams for analytics and agentic integrations
+ Normalize third-party data into structured event streams for analsis and agentic integrations
